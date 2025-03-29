@@ -1,6 +1,6 @@
-# Ex-01-Linux-Commands
-# Name: Shaik Azeez Ahamad
-# Reg No: 212223110046
+# Ex-02-Linux-Commands
+# Name: SANJAY K
+# Reg No: 212223220094
 ## Aim:
 
 To study the execution of various Linux operating system commands.
